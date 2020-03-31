@@ -1,6 +1,6 @@
 # Twitter Bot
 
-*Bot do twitter para responder tweets que contem certas palavras previamente definidas*
+**Bot do twitter para responder tweets que contem certas palavras previamente definidas**
 
 Bots criados para interagir no twitter, sendo eles:
 
